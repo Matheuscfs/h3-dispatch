@@ -6,7 +6,7 @@ A ride-hailing dispatch simulator built on [H3](https://h3geo.org), the hexagona
 
 ![Map of Cascavel with the H3 grid, drivers coloured by status, surge cells in orange and a ring search in pink around a pickup](docs/screenshot.jpg)
 
-**Click anywhere on the map to request a ride** and watch the search expand ring by ring until it can prove it found the nearest driver.
+**[Live demo → h3-dispatch.vercel.app](https://h3-dispatch.vercel.app)**. Click anywhere on the map to request a ride and watch the search expand ring by ring until it can prove it found the nearest driver.
 
 ## What's inside
 
