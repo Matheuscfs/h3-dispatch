@@ -77,7 +77,7 @@ npm run bench      # benchmark table
 npm run build      # static site in dist/
 ```
 
-Requires Node 20 or newer.
+Requires Node 22 or newer.
 
 ## Simplifications
 

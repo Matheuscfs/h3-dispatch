@@ -16,7 +16,7 @@
     "bench": "tsx scripts/bench.ts"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "dependencies": {
     "h3-js": "^4.5.0",
